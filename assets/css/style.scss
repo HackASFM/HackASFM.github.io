@@ -15,7 +15,10 @@
 }
 
 .page-header svg {
-	height: 80px;
+	width: 100%;
+	@media screen and (max-width: 485px) {
+		width: 485px;
+	}
 }
 
 a {
