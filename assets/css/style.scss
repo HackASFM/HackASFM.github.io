@@ -10,15 +10,13 @@
 .page-header {
 	color: #000;
 	background-color: #F49979;
-	padding: 3rem 4rem 1rem 4rem;
+	padding: 3rem 3rem 1rem 3rem;
 	background-image: linear-gradient(120deg, #ea3838, #ffaa56);
 }
 
 .page-header svg {
-	width: 485px;
-	@media screen and (max-width: 613px) {
-		width: 100%;
-	}
+	width: 100%;
+	max-width: 35rem;
 }
 
 a {
