@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Hack_@ASFM 2018
+Hack_@ASFM will be a 24-hour coding event where teams of two to six high school programmers will develop applications, games, or systems that will contribute to the solving of a global issue that we will specify. This implies that students will have stay overnight to code (as long as they have their parents' permission.
 
-You can use the [editor on GitHub](https://github.com/HackASFM/HackASFM.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This will take place from **Friday, February 23 at 3:00 pm** to **Saturday, February 24 at 3:30 pm** in the ASFM Library.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Registration
+Registrations have now been open. Please register your team at http://goo.gl/F27KLY.
 
-### Markdown
+## Costs
+> Note: Prices are in MXN.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If your team signs up by no later than *February 17th*, you will have a discounted price of $100 per team and $50 per person. Any registration completed later than this date will be charged $150 and $60 per person at the entry of the event.
 
-```markdown
-Syntax highlighted code block
+## FAQ's
+### Will there be food?
+Of course! We will provide dinner, breakfast, and lunch as well as additional snacks and drinks (and yes, including coffee).
 
-# Header 1
-## Header 2
-### Header 3
+### Will we sleep on the floor?
+There will be some sofas around the library, but we do not guarantee that everyone will have one to sleep in. That being said, we do recommend bringing a sleeping bag and pillow. Just remember that the ASFM Library no longer has a carpeted floor.
 
-- Bulleted
-- List
+### May we bring our own food?
+We are excited to say that for this event only, the ASFM Staff has allowed us to eat inside the library! That being said, you MAY bring your own food and drinks, but please keep our ASFM Library clean.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HackASFM/HackASFM.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+If you have any other questions, do not hesitate to contact our head of Public Relations, Natalia Menendez at 18menendez5970@asfm.mx.
