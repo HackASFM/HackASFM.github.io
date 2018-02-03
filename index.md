@@ -4,7 +4,7 @@ Hack_@ASFM will be a 24-hour coding event where teams of two to six high school 
 This will take place from **Friday, February 23 at 3:00 pm** to **Saturday, February 24 at 3:30 pm** in the ASFM Library.
 
 ## Registration
-Registrations have now been open. Please register your team at http://goo.gl/F27KLY.
+Registrations have now been open. Please register your team [http://goo.gl/F27KLY](http://goo.gl/F27KLY).
 
 ## Costs
 > Note: Prices are in MXN.
@@ -22,4 +22,4 @@ There will be some sofas around the library, but we do not guarantee that everyo
 We are excited to say that for this event only, the ASFM Staff has allowed us to eat inside the library! That being said, you MAY bring your own food and drinks, but please keep our ASFM Library clean.
 
 ## Contact
-If you have any other questions, do not hesitate to contact our head of Public Relations, Natalia Menendez at 18menendez5970@asfm.mx.
+If you have any other questions, do not hesitate to contact our head of Public Relations, [Natalia Menendez](mailto:18menendez5970@asfm.mx?subject=Hack_@ASFM).
