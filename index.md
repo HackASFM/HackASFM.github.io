@@ -4,7 +4,7 @@ Hack_@ASFM will be a 24-hour coding event where teams of two to six high school 
 This will take place from **Friday, February 23 at 3:00 pm** to **Saturday, February 24 at 3:30 pm** in the ASFM Library.
 
 ## Registration
-Registrations have now been open. Please register your team [http://goo.gl/F27KLY](http://goo.gl/F27KLY).
+Registrations have now been open. Please register your team at [http://goo.gl/F27KLY](http://goo.gl/F27KLY).
 
 ## Costs
 > Note: Prices are in MXN.
