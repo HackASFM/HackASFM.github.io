@@ -3,7 +3,7 @@ Hack_@ASFM will be a 24-hour coding event where teams of two to six high school 
 
 \*Students will be staying at the ASFM Library — for more information please read below. 
 
-The event will take place from **Friday, February 23 at 3:00 pm** to **Saturday, February 24 at 3:30 pm** at the ASFM Library.
+The event will take place from **Friday, March 16 at 3:00 pm** to **Saturday, March 17 at 3:30 pm** at the ASFM Library.
 
 ## Registration
 Registrations have now opened. Please register your team at [http://goo.gl/F27KLY](http://goo.gl/F27KLY).
@@ -22,7 +22,7 @@ Of course! We will be providing breakfast, lunch and dinner as well as some addi
 There will be some sofas around the library, but we do not guarantee that everyone will have one to sleep in. That being said, we do recommend bringing a sleeping bag and pillow. Just remember that the ASFM Library no longer has a carpeted floor.
 
 ### Should we bring our own computers?
-Yes, and any other electronic device you would like to use. There will be at least one power outlet per person, but you might also want to brink your own power strip just in case.
+Yes, and any other electronic device you would like to use. There will be at least one power outlet per person, but you might also want to bring your own power strip just in case.
 
 ### May we bring our own food?
 We are excited to say that for this event only, the ASFM staff has allowed us to eat inside the library! That being said, you MAY bring your own food and drinks, but please keep our ASFM Library clean and remember that you will have to pick up after yourself.
