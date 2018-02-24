@@ -3,7 +3,7 @@ Hack_@ASFM will be a 24-hour coding event where teams of two to six high school 
 
 \*Students will be staying at the ASFM Library — for more information please read below. 
 
-The event will take place from **Friday, March 16 at 3:00 pm** to **Saturday, March 17 at 3:30 pm** at the ASFM Library.
+The event will take place from **Friday, March 16 at 2:45 pm** to **Saturday, March 17 at 3:30 pm** at the ASFM Library.
 
 ## Registration
 Registrations have now opened. Please register your team at [http://goo.gl/F27KLY](http://goo.gl/F27KLY).
