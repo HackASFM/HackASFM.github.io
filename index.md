@@ -12,7 +12,7 @@ Registrations have now opened. Please register your team at [http://goo.gl/F27KL
 > Note:  Cost of the event includes a price per team and per person that will be payed at the entrance on the day of the event. Please contact us prior to the event if you need an invoice.  
 
 * If team signs up **by or before March 10th**: $100 pesos per team plus $50 pesos per person.
-* If team signs up **after February 10th**: $150 pesos per team plus $60 pesos per person. 
+* If team signs up **after March 10th**: $150 pesos per team plus $60 pesos per person. 
 
 ## FAQ's
 ### Will there be food?
