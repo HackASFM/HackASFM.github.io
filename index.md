@@ -1,5 +1,5 @@
 ## Welcome to Hack_@ASFM 2018
-Hack_@ASFM will be a 24-hour coding event where teams of two to six high school programmers will develop an application, game, or system. The project should ultimately strive to solve a global issue that will be revealed on the day of the event. As implied by the name of this event, it requires that students stay at ASFM\* overnight to code and complete their project (with parental permission of course).
+Hack_@ASFM will be a 24-hour coding event where teams of two to six high school programmers will develop an application, game, or system in their favorite programming language. The project should ultimately strive to solve a global issue that will be revealed on the day of the event. As implied by the name of this event, it requires that students stay at ASFM\* overnight to code and complete their project (with parental permission of course).
 
 \*Students will be staying at the ASFM Library — for more information please read below. 
 
