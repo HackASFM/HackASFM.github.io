@@ -1,18 +1,20 @@
+# NOTE: HACK_@ASFM HAS BEEN POSTPONED TO MAY 18TH
+
 ## Welcome to Hack_@ASFM 2018
 Hack_@ASFM will be a 24-hour coding event where teams of two to six high school programmers will develop an application, game, or system in their favorite programming language. The final product must address a theme that will be revealed on the day of the event. The team that develops the best project will win a prize of **$10,000 pesos**.  As implied by the name of this event, it requires that students stay at ASFM\* overnight to code and complete their project (with parental permission of course).
 
 \*Students will be staying at the ASFM Library — for more information please read below. 
 
-The event will take place from **Friday, March 16 at 2:45 pm** to **Saturday, March 17 at 3:30 pm** at the ASFM Library.
+The event will take place from **Friday, May 18 at 2:45 pm** to **Saturday, May 18 at 3:30 pm** at the ASFM Library.
 
 ## Registration
-Registrations have now opened. Please register your team at [http://goo.gl/F27KLY](http://goo.gl/F27KLY).
+Registrations have now been opened. Please register your team at [http://goo.gl/F27KLY](http://goo.gl/F27KLY).
 
 ## Costs
 > Note:  Cost of the event includes a price per team and per person that will be payed at the entrance on the day of the event. Please contact us prior to the event if you need an invoice.  
 
-* If team signs up **by or before March 10th**: $100 pesos per team plus $50 pesos per person.
-* If team signs up **after March 10th**: $150 pesos per team plus $60 pesos per person.
+* If team signs up **by or before May 11th**: $100 pesos per team plus $50 pesos per person.
+* If team signs up **after May 11th**: $150 pesos per team plus $60 pesos per person.
 
 ## Parental Consent Form
 Once your team is registered you will recieve the consent form a few days prior to the event.
