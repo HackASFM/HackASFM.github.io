@@ -4,23 +4,26 @@
 @import "{{ site.theme }}";
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-	color: #f01818;
+	color: #37C;
+}
+
+.main-content h2 {
+	margin-top: 2rem;
 }
 
 .page-header {
 	color: #fff;
-	background-color: #400;
+	background-color: #37C;
 	padding: 3rem 3rem 1rem 3rem;
-	background-image: radial-gradient(circle at top, #a80000, #000);
+	background-image: url("assets/background.png");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0 0 10rem rgba(0,0,0,0.3) inset;
 }
 
-.page-header svg {
-	width: 100%;
-	max-width: 35rem;
-}
-
-.page-header svg path {
-	fill: white;
+.main-content p {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
 }
 
 .project-tagline {
@@ -28,5 +31,6 @@
 }
 
 a {
-	color: #830f0f;
+	color: #28D;
 }
+
