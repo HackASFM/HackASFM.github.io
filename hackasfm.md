@@ -1,5 +1,3 @@
-# **NOTE: HACK_@ASFM HAS BEEN POSTPONED TO MAY 18TH**
-
 ## Welcome to Hack_@ASFM 2018
 Hack_@ASFM will be a 24-hour coding event where teams of two to six high school programmers will develop an application, game, or system in their favorite programming language. The final product must address a theme that will be revealed on the day of the event. The team that develops the best project will win a prize of **$10,000 pesos**.  As implied by the name of this event, it requires that students stay at ASFM\* overnight to code and complete their project (with parental permission of course).
 
