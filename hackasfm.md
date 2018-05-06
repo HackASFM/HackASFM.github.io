@@ -16,8 +16,7 @@ Registrations have now been opened. Please register your team at [http://goo.gl/
 > Note:  Cost of the event includes a price per team and per person that will be paid at the entrance on the day of the event. Please contact us prior to the event if you need an invoice.  
 
 * If team signs up **by or before May 11th**: $100 pesos per team plus $50 pesos per person.
-* If team signs up **after May 11th**: $150 pesos per team plus $60 m
-* If team signs up **after May 11th**: $150 pesos per team plus $60 pesos per person
+* If team signs up **after May 11th**: $150 pesos per team plus $60 pesos per person.
 
 ## Parental Consent Form
 Once your team is registered you will recieve the consent form a few days prior to the event.
