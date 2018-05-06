@@ -3,11 +3,11 @@ title: Hack_@ASFM
 description: High school Hackathon in Monterrey, Mexico.
 ---
 ## Welcome to Hack_@ASFM 2018
-Hack_@ASFM will be a 20-hour coding event where teams of two to six high school programmers will develop an application, game, or system in their favorite programming language. The final product must address a theme that will be revealed on the day of the event. The team that develops the best project will win a prize of **$10,000 pesos**.  As implied by the name of this event, it requires that students stay at ASFM\* overnight to code and complete their project (with parental permission of course).
+Hack_@ASFM is a 24-hour coding event where teams of two to six high school programmers develop an application, game, or system in their favorite programming language. The final product must address a theme that will be revealed on the starting day of the event. The team that develops the best project will win a prize of **$10,000 pesos**.  As implied by the name of this event, it requires that students stay at ASFM\* overnight to code and complete their project (with parental permission of course).
 
 \*Students will be staying at the ASFM Library — for more information please read below. 
 
-The event will take place from **Friday, May 18 at 2:45 pm** to **Saturday, May 19 at 2:00 pm** at the ASFM Library.
+The event takes place from **Friday, May 18 at 2:45 pm** to **Saturday, May 19 at 2:00 pm** at the ASFM Library.
 
 ## Registration
 Registrations have now been opened. Please register your team at [http://goo.gl/F27KLY](http://goo.gl/F27KLY).
