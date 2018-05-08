@@ -10,18 +10,5 @@ The event will take place on **Saturday, May 19 at 2:00 pm** at the ASFM Cafeter
 ## Attendance
 This event of the ASFM Tech Weekend is completely free and open to all attendees at no cost.
 
-## FAQ's
-### ?
-?
-
-### ?
-?
-
-### ?
-?
-
-### ?
-?
-
 ## Contact
-If you have any other questions, do not hesitate to contact our head of Public Relations, [Natalia Menendez](mailto:18menendez5970@asfm.mx?subject=Hack_@ASFM).
+If you have any other questions, do not hesitate to contact our head of Public Relations, [Natalia Menendez](mailto:18menendez5970@asfm.mx?subject=Puzzle Day).
