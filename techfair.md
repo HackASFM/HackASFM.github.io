@@ -1,6 +1,6 @@
 ---
 title: ASFM Tech Fair
-description: Technology expo at ASFM
+description: Technology expo at ASFM.
 ---
 ## Welcome to the ASFM Tech Fair!
 The ASFM Tech Fair is an event taking place at ASFM where companies, entrepenuers, innovators, students, educators, and startups will be provided a platform to present their tech-centered developments, gain feedback, and get public attention.
