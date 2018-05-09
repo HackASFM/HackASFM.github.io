@@ -1,6 +1,6 @@
 ---
 title: ASFM Puzzle Day
-description: Challenging puzzles for ages 12 and up
+description: Challenging puzzles for ages 12 and up.
 ---
 ## Welcome to ASFM's Puzzle Day!
 Puzzle Day is an event at ASFM during the ASFM Tech Weekend. It will feature a scavenger-hunt style puzzle challenge for kids and young adults alike; it will allow them to excercise their problem-solving skills in a tech-centric environment, with the purpose of motivating them to learn more about programming and computer science in general.
