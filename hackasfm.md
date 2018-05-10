@@ -24,7 +24,7 @@ Once your team is registered you will recieve the consent form a few days prior 
 
 ## FAQ's
 ### Will there be food?
-Of course! We will be providing breakfast, lunch and dinner as well as some additional snacks and drinks — don’t worry, that includes coffee!
+Of course! We will be providing dinner, breakfast, and lunch as well as some additional snacks and drinks — don’t worry, that includes coffee!
 
 ### Will we sleep on the floor?
 There will be some sofas around the library, but we do not guarantee that everyone will have one to sleep in. That being said, we do recommend bringing a sleeping bag and pillow. Just remember that the ASFM Library no longer has a carpeted floor.
