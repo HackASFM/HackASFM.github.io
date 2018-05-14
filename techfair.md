@@ -12,3 +12,9 @@ To register as a presenter in the event please contact us. Contact information i
 
 ## Contact
 If you have any other questions, do not hesitate to contact our head of Public Relations, [Natalia Menendez](mailto:18menendez5970@asfm.mx?subject=ASFM%20Tech%20Fair).
+
+___________________________________________________________________________________________________________________________________________
+
+### Presenters
+
+..*<a href="#pookie">Robotic Eagles</a>
