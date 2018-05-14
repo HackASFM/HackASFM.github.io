@@ -17,4 +17,4 @@ ________________________________________________________________________________
 
 ### Presenters
 
-..*<a href="#pookie">Robotic Eagles</a>
+..* <a href="#pookie">Robotic Eagles</a>
