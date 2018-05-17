@@ -17,10 +17,15 @@ ________________________________________________________________________________
 
 ### Presenters
 1. <a href="#RoboEagles">Robotic Eagles</a>
-2. <a href="#2">Filler</a>
-3. <a href="#3">Filler</a>
-4. <a href="#4">Filler</a>
-5. <a href="#5">Filler</a>
-
+2. <a href="#2">E-Sports Club</a>
+3. <a href="#3">MASA</a>
 
 #### <a name="RoboEagles">1. Robotic Eagles</a>
+
+The ASFM robotics club is going to be presenting their robot "Fred" which participated in the Torreon Regional of the prestigious First Robotics Competition.
+
+<a href='https://postimg.cc/image/c9z9vxedz/' target='_blank'><img src='https://s7.postimg.cc/c9z9vxedz/7299.jpg' border='0' alt='7299'/></a>
+
+#### <a name="#2">2. E-Sports Club</a>
+
+#### <a name="#3">3. MASA</a>
