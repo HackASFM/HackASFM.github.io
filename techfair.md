@@ -26,6 +26,8 @@ The ASFM robotics club is going to be presenting their robot "Fred" which partic
 
 <a href='https://postimg.cc/image/c9z9vxedz/' target='_blank'><img src='https://s7.postimg.cc/c9z9vxedz/7299.jpg' border='0' alt='7299' height="50%" width="50%"/></a>
 
+<a href="http://es.tinypic.com?ref=34euh5l" target="_blank"><img src="http://i63.tinypic.com/34euh5l.jpg" border="0" alt="Image and video hosting by TinyPic" height="50%" width="50%"></a>
+
 #### <a name="#2">2. E-Sports Club</a>
 
 #### <a name="#3">3. MASA</a>
