@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 The ASFM robotics club is going to be presenting their robot "Fred" which participated in the Torreon Regional of the prestigious First Robotics Competition.
 
-<a href='https://postimg.cc/image/c9z9vxedz/' target='_blank'><img src='https://s7.postimg.cc/c9z9vxedz/7299.jpg' border='0' alt='7299' height="200%" width="200%"/></a>
+<a href='https://postimg.cc/image/c9z9vxedz/' target='_blank'><img src='https://s7.postimg.cc/c9z9vxedz/7299.jpg' border='0' alt='7299' height="100%" width="100%"/></a>
 
 #### <a name="#2">2. E-Sports Club</a>
 
